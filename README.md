@@ -1,6 +1,6 @@
-## Hi there! 
+## Hi there! ✨
 
-I am a current Columbia SIPA graduate student, concentrating in Economic and Political Development and specializing in technology, media, and communications.
+I am a current Columbia SIPA graduate student, concentrating in Economic and Political Development and specializing in Technology, Media, and Communications.
 - Current goal: developing Python skills as a beginner! 💻
 - Fun fact: I'm also a gamer who wants to learn more about coding! 👾
 <!--
