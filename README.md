@@ -1,7 +1,9 @@
-## Hi there 👋
+## Hi there! 
 
-<!--
-**es3137/es3137** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm Erina Saito, a second-year MPA student at SIPA! I am a beginner at coding and hope to use this space to work on creative projects beyond the classroom!✨
+## I also love playing video games and would love to dig deeper into the development side of it as well! :)
+
+<!--**es3137/es3137** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
